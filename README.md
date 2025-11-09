@@ -91,7 +91,7 @@ CREATE TABLE angles (
 );
 
 ```
-![f](f.jpg)
+![f](f.png)
 
 
 
@@ -119,7 +119,7 @@ http://localhost/robot-arm/index.php
 جدول البيانات بعد التحديث:
 
 
-![g](g.jpg)
+![g](g.png)
 
 ملف الزوايا (angle.php) بعد الارسال:
 
